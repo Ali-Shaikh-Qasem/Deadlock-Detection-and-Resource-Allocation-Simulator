@@ -2,14 +2,6 @@
 
 This Python program simulates a system with N processes and M resources, where each resource has multiple instances. The program reads input files representing the allocation matrix, request matrix, and available resources, verifies their consistency, detects deadlock conditions, and provides solutions based on the system's state.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Input Files](#input-files)
-- [Functionality](#functionality)
-- [How to Run](#how-to-run)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Project Overview
 
